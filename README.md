@@ -3,4 +3,4 @@ Codes and data for the BGL-ML research project, which corresponds to the paper: 
 
 Refs: Some references for direct searches at the LHC that were relevant for the paper
 
-Param_Cards_MG5: Parameters cards to be used in MadGraph, for all 1$\sigma$ and 2$\sigma$ benchmark points 
+Param_Cards_MG5: Parameters cards to be used in MadGraph, for all 1sigma and 2sigma benchmark points 
