@@ -19,4 +19,4 @@ Codes and data for the BGL-ML research project, which corresponds to the paper: 
 
 
 
-For additional information or questions, feel free to contact by email (jpedropino@ua.pt or johnppg5@gmail.com)
+For additional information or questions, feel free to contact me by email (jpedropino@ua.pt or johnppg5@gmail.com)
