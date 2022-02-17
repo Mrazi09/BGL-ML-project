@@ -12,3 +12,5 @@ Codes and data for the BGL-ML research project, which corresponds to the paper: 
 **BGL_UFO_py3**: Contains the UFO files, as well as an example parameter card (restrict_default.dat) to run Monte Carlo simulations in MadGraph. Python3 version
 
 **BGL_UFO_py3**: Contains the UFO files, as well as an example parameter card (restrict_default.dat) to run Monte Carlo simulations in MadGraph. Python2 version
+
+**MadGraph_bash**: Contains some example scripts to run MadGraph. They are designed to run in Aveiro's local computer cluster. make_scripts_1sigma.sh contains the code to get the cross-section for each of the 1sigma points for the signal topology. Inside the Signal folder, it contains the main codes to run MadGraph+Pythia8+Delphes chain for the signal, and inside Folders_1.sh it contains the MadGraph syntax for event generation. Equivalently, inside the Z_plus_jets folder we have the codes for the Z plus jets background. The MadGraph syntax is the Folders.sh file
