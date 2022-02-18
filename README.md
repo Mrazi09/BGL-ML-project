@@ -16,7 +16,7 @@ Codes and data for the BGL-ML research project, which corresponds to the paper: 
 **MadGraph_bash**: Contains some example scripts to run MadGraph. They are designed to run in Aveiro's local computer cluster. make_scripts_1sigma.sh contains the code to get the cross-section for each of the 1sigma points for the signal topology. Inside the Signal folder, it contains the main codes to run MadGraph+Pythia8+Delphes chain for the signal, and inside Folders_1.sh it contains the MadGraph syntax for event generation. Equivalently, inside the Z_plus_jets folder we have the codes for the Z plus jets background. The MadGraph syntax is the Folders.sh file.
 There is also run_\*.sh codes which were used to simulate 1 million events for z+jets and signal. The code generated 10 samples, each with 100k events
 
-**Data**: Contains .csv tables with the data used in the analysis. Corresponds to the events that survive from the 1M points generated.
+**Data**: Contains .csv tables with the data used in the analysis. Corresponds to the events that survive the cuts from the 1M points generated.
 
 
 
