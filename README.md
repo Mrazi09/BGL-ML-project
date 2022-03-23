@@ -3,7 +3,7 @@ Codes and data for the BGL-ML research project, which corresponds to the paper: 
 
 **Refs**: Some references for direct searches at the LHC that were relevant for the paper
 
-**Param_Cards_MG5**: Parameters cards to be used in MadGraph, for all 1sigma and 2sigma benchmark points 
+**Param_Cards_MG5**: Parameters cards to be used in MadGraph, for all 1sigma and 2sigma benchmark points. Please note that I have not tested every single card, so if you find any bugs with the cards, and can't seem to fix it, please contact me.
 
 **TMVA**: Contains the C macros to run the TMVA analysis. Contains some data inside, but the data samples are are very small and they are only meant for testing purposes !!!! In the **Data** folder, there are some .csv's with greater statistics. Requires ROOT to run. Containts do_read, which converts .txt files to ROOT tuples. Contains do_TMVA_A3_single_prod_root6, which runs the TMVA code
 
