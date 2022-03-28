@@ -20,5 +20,7 @@ There is also run_\*.sh codes which were used to simulate 1 million events for z
 
 **Benchmark_cards**: Cards for the benchmarks H1, H2, H3, H4 and H5 that were mentioned in the paper. Includes the MadGprah cards that can be used for the Monte Carlo simulations, as well as the SPheno outputs, where one can read the branching fractions for the scalar fields.
 
+**SARAH_codes**: Contains the files for the SARAH implementation of the model
+
 
 For additional information or questions, feel free to contact me by email (jpedropino@ua.pt or johnppg5@gmail.com)
