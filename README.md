@@ -22,7 +22,7 @@ There is also run_\*.sh codes which were used to simulate 1 million events for z
 
 **SARAH_codes**: Contains the files for the SARAH implementation of the model
 
-**Deep_learning_EVO**: Contains the main codes (python and jupyter) for the machine learning part. Built using TensorFlow/Keras. The data used in the training/validation is include in the CSV_data folder. Due to github's limitation, only .csv's are provided, but a code to transform to the .npz format is given. The jupyter notebook process imbalanced.ipynb reads and concat data and saves in .npz format for the EVO algorithm
+**Deep_learning_EVO**: Contains the main codes (python and jupyter) for the machine learning part. Built using TensorFlow/Keras. The data used in the training/validation is include in the CSV_data folder. Due to github's limitation, only .csv's are provided, but a code to transform to the .npz format is given. The jupyter notebook process imbalanced.ipynb reads and concat data and saves in .npz format for the EVO algorithm. Inside the EVO_alg folder I have the evolutionary algorithm, as well as the best network found (models) and the corresponding weights (weights).
 
 
 For additional information or questions, feel free to contact me by email (jpedropino@ua.pt or johnppg5@gmail.com)
