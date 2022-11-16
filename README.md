@@ -5,7 +5,7 @@ Codes and data for the BGL-ML research project, which corresponds to the paper: 
 
 **BGL_UFO_py3**: Contains the UFO files, as well as an example parameter card (restrict_default.dat) to run Monte Carlo simulations in MadGraph. Python3 version
 
-**BGL_UFO_py3**: Contains the UFO files, as well as an example parameter card (restrict_default.dat) to run Monte Carlo simulations in MadGraph. Python2 version
+**BGL_UFO_py2**: Contains the UFO files, as well as an example parameter card (restrict_default.dat) to run Monte Carlo simulations in MadGraph. Python2 version
 
 **Data**: Contains .csv tables with the data used in the analysis. Corresponds to the events that survive the cuts from the 1M points generated.
 
