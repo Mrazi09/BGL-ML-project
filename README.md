@@ -7,7 +7,7 @@ Codes and data for the BGL-ML research project, which corresponds to the paper: 
 
 **BGL_UFO_py2**: Contains the UFO files, as well as an example parameter card (restrict_default.dat) to run Monte Carlo simulations in MadGraph. Python2 version
 
-**Data**: Contains .csv tables with the data used in the analysis. Corresponds to the events that survive the cuts from the 1M points generated.
+**Data**: Contains .csv tables with the data used in the analysis. Corresponds to the events that survive the cuts.
 
 **Benchmark_cards**: Cards for the benchmarks H1, H2, H3, H4, H5 and H6 that were mentioned in the paper. Includes the MadGprah cards that can be used for the Monte Carlo simulations, as well as the SPheno outputs, where one can read the branching fractions for the scalar fields.
 
