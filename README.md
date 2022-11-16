@@ -1,7 +1,7 @@
 # BGL-ML-project
 Codes and data for the BGL-ML research project, which corresponds to the paper: "Collider phenomenology of new scalars in a flavoured multi-Higgs models" by myself (João Pedro Pino Gonçalves) and collaborators (Pedro M. Ferreira, António Morais, António Onofre, Roman Pasechnik and Vasileios Vatellis). arXiv:00000.0000
 
-**Param_Cards_MG5**: Parameters cards to be used in MadGraph, for all 1sigma and 2sigma benchmark points. Please note that I have not tested every single card, so if you find any bugs with the cards, and can't seem to fix it, please contact me.
+**Param_Cards_MG5**: Parameters cards to be used in MadGraph, for all 1sigma and 2sigma benchmark points. While I haved tested a lot of the cards, I have not tested every single card, so if you find any bugs with the cards and can't seem to fix it, please contact me.
 
 **BGL_UFO_py3**: Contains the UFO files, as well as an example parameter card (restrict_default.dat) to run Monte Carlo simulations in MadGraph. Python3 version
 
